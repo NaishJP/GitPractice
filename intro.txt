@@ -1,1 +1,3 @@
-"Hola, mi nombre es Santos y me meti en Ingenieria Informatica porque me permite hacer varias cosas en el futuro"
+Hola, mi nombre es Santos y me meti en Ingenieria Informatica porque me permite hacer varias cosas en el futuro
+
+Me gusta hacer deportes
